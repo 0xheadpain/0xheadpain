@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0xheadpain</h1>
 <h3 align="center">I Am Normal Human I Love Binary...</h3>
+<img align="left" alt="Time" width="400" src="https://raw.githubusercontent.com/0xheadpain/0xheadpain/refs/heads/main/gif.gif">
 
 - 🔭 I’m currently working on **I'm doing something every second**
 
