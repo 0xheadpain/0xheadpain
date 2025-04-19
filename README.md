@@ -12,24 +12,6 @@
 <p align="left">
 </p>
 
-# 💀 Head_Pain
-
-**Cyberwarrior | Self-Taught Hacker | Recon Beast | Code Child of Chaos**  
-💻 Turning pain into payloads.  
-🧠 Building tools from the ground up.  
-💥 Hunting bugs like my sanity depends on it (because it does).
-
----
-
-### 👨‍💻 About Me
-- 🧠 I’m 17 years old — but I’ve lived 100 lives through code.
-- 🎯 Self-taught in hacking, programming, reverse engineering, and pain.
-- ☠️ I build Bash & Python tools to automate recon, vuln hunting, and exploit testing.
-- 💡 I don’t copy-paste — I **create**, **fail**, **fix**, and **build** better.
-- 🔒 Everything I do is for knowledge, growth, and strength through suffering.
-
----
-
 ### 🔧 Skills & Knowledge
 - **Languages:** Python 🐍, Bash 💻, C++ ⚙️, PHP (reverse shells 😏), HTML/CSS/JS, learning C#
 - **Bug Bounty:** XSS, SQLi, Open Redirect, LFI, JS Recon, Param Hunting
