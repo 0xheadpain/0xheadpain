@@ -13,12 +13,9 @@
 </p>
 
 ### 🔧 Skills & Knowledge
-- **Languages:** Python 🐍, Bash 💻, C++ ⚙️, PHP (reverse shells 😏), HTML/CSS/JS, learning C#
+- **Languages:** Python 🐍, Bash 💻, C++ ⚙️, PHP (reverse shells), HTML/JS, learning C#
 - **Bug Bounty:** XSS, SQLi, Open Redirect, LFI, JS Recon, Param Hunting
-- **Tools I Use & Love:** Burp Suite, Dalfox, httpx, subfinder, gf, gau, sqlmap, kxss
-- **Tools I Built:** `reconxss.sh`, `reconall.sh`, `recon-openredirect.sh`, `main.sh`, `reconjs.sh`, `virus.py`, and more...
 - **Systems:** Kali Linux 🐉, Parrot OS, and any terminal that screams with me.
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
