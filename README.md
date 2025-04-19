@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0xheadpain</h1>
 <h3 align="center">I Am Normal Human I Love Binary...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xheadpain&label=Profile%20views&color=0e75b6&style=flat" alt="0xheadpain" /> </p>
-
 - 🔭 I’m currently working on **I'm doing something every second**
 
 - 🌱 I’m currently learning **A Lot Of Things**
