@@ -19,7 +19,7 @@
 ---
 
 ### 🌟 My Discord Server
-- **The Server >>>** <a href="https://discord.gg/znYNqe8R">rEv9</a>
+- **The Server >>>** <a href="https://discord.gg/znYNqe8R">rEv9 team</a>
 
 ---
 
