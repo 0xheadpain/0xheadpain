@@ -13,7 +13,7 @@
 </p>
 
 ### 🔧 Skills & Knowledge
-- **Languages:** Python 🐍, Bash 💻, C++ ⚙️, PHP (reverse shells), HTML/JS, learning C#
+- **Languages:** Python 🐍, Bash 💻, C++ ⚙️, C ⚙️,PHP (reverse shells), HTML/JS, learning C#
 - **Bug Bounty:** XSS, SQLi, Open Redirect, LFI, JS Recon, Param Hunting
 - **Systems:** Kali Linux 🐉, Parrot OS, and any terminal that screams with me.
 ---
